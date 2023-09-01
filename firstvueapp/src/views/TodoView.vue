@@ -77,7 +77,7 @@ margin-right: 1px;
 .buttonstyle {
 
 width: 80%;
-background-color: #4caf50;
+background-color: #934caf;
 color: white;
 padding: 14px 20px;
 margin: 8px 0;
@@ -92,7 +92,7 @@ cursor: pointer;
 div {
 
 border-radius: 5px;
-background-color: #f2f2f2;
+background-color: #fad8fc;
 padding: 20px;
 
 }
